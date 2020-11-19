@@ -17,6 +17,6 @@ Algumas das ferramentas utilizadas no projeto
 ## Versão
 
 Foram utilizadas as seguints versões:
-[SpringTools4](https://spring.io/tools)
-[PostgreSQL 9.5.23](https://www.postgresql.org/)
-[Java 8](https://www.oracle.com/)
+*[SpringTools4](https://spring.io/tools)
+*[PostgreSQL 9.5.23](https://www.postgresql.org/)
+*[Java 8](https://www.oracle.com/)
